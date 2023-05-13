@@ -254,6 +254,7 @@ section > p{
 .about-container{
             display: grid;
             grid-template-columns: 1fr 1fr;
+            padding:10px 0 30px 0;
             
 }
 .about-container .about-col1 img{
